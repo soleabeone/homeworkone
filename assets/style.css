@@ -81,10 +81,17 @@ input {
 /*fix for transparency issues in the footer div and z scale*/
 label {
     background-color:transparent;
-    text-align: center;
     color:white;
     width:100%;
     z-index: 1;
+}
+
+button {
+    color:white;
+    font-size: 1.0em;
+    border-color:white;
+    border-radius: 30%;
+
 }
 
 /*styling for the footer final text*/
